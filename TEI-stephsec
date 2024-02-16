@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: stephsec
+# key: stephsec
+# --
+<milestone unit="section" resp="Stephanus" n="$1"/>

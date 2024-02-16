@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: soc
+# key: soc
+# --
+<p><said who="#Sócrates"><label>Sóc.</label> $1</said></p>

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: stephpg
+# key: stephpg
+# --
+<milestone unit="page" resp="Stephanus" n="$1"/><milestone unit="section" resp="Stephanus" n="$1a"/>

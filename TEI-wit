@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: TEI witness
+# key: wit
+# --
+<witness xml:id="$1">$2</witness>

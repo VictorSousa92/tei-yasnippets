@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: fil
+# key: fil
+# --
+<p><said who="#Filebo"><label>Fil.</label> $1</said></p>

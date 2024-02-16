@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: prot
+# key: prot
+# --
+<p><said who="#Protarco"><label>Prot.</label> $1</said></p>
