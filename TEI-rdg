@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: TEI-rdg
+# key: rdg
+# --
+<rdg wit="#$1">$2</rdg>

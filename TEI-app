@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: app
+# key: app
+# --
+<app loc="$1">
+     <lem wit="#$2">$3</lem>
+</app>
