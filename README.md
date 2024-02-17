@@ -27,7 +27,7 @@ Depois de instalar os snippets, você pode usá-los ao editar arquivos TEI XML n
 - `soc`: fala de Sócrates
 
 - `stephpg`: nova página de Stephanus
-- `stephsec`: nova seção de Stephanos
+- `stephsec`: nova seção de Stephanus
 
 ## Contribuindo
 
