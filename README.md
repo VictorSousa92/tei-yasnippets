@@ -12,6 +12,13 @@ Depois de instalar o YASnippet, você pode clonar este repositório em seu diret
 git clone https://github.com/arete-estudos-helenicos/tei-yasnippets.git ~/.emacs.d/snippets/nxml-mode
 ```
 
+Para o Spacemacs:
+
+```sh
+git clone https://github.com/arete-estudos-helenicos/tei-yasnippets.git ~/.emacs.d/private/snippets/nxml-mode
+```
+
+
 ## Uso
 
 Depois de instalar os snippets, você pode usá-los ao editar arquivos TEI XML no Emacs. Basta digitar a palavra-chave do snippet e pressionar `TAB` para expandir o snippet. Por exemplo, digitar `app` e depois pressionar `TAB` irá expandir o snippet para inserir um elemento de aparato TEI.
