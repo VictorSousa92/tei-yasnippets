@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: TEI supplying words in translation
+# key: supt
+# --
+<supplied reason="explanation">$1</supplied>
