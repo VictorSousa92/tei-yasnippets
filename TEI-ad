@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ad
+# key: ad
+# --
+<p><said who="#Adeimantus"><label>Ad.</label> $1</said></p>
