@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: gla
+# key: gla
+# --
+<p><said who="#Glaucon"><label>Gla.</label> $1</said></p>
